@@ -1,0 +1,13 @@
+{
+  "development": {
+    "apiUrl": "https://carlosramirezflores.herokuapp.com",
+    "contentApiKey": "01b56a972b78fc3b39402d0a3b",
+    "version": "v3"
+  },
+  "production": {
+    "apiUrl": "https://carlosramirezflores.herokuapp.com",
+    "contentApiKey": "01b56a972b78fc3b39402d0a3b",
+    "version": "v3"
+  }
+}
+ 
